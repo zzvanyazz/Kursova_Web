@@ -1,0 +1,18 @@
+.project
+.settings/
+dependency-reduced-pom.tmp
+/target
+.classpath
+
+# Log file
+*.log
+
+#Mac Files
+.DS_Store
+
+#Intellij Files
+.idea
+*.iml
+
+# SDK jar files
+sdk
